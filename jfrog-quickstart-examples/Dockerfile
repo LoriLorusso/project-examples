@@ -1,2 +1,2 @@
-FROM lorilv2-docker-quickstart.jfrog.io/ubuntu:16.04
+FROM loriv2-docker-quickstart.jfrog.io/ubuntu:16.04
 CMD printf "CONGRATULATIONS!!! You have just set up your first Docker repository with the new JFrog Platform!"
